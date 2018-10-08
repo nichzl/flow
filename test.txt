@@ -1,0 +1,4 @@
+module.exports = {
+    name: 'My Sample',
+    fn: () => <MySample/>
+};
